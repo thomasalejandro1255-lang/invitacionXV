@@ -1,0 +1,4 @@
+[
+  {"name":"María Pérez","token":"abc123"},
+  {"name":"Juan Gómez","token":"def456"}
+]
